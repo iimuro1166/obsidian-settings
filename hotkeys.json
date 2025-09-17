@@ -1,4 +1,13 @@
 {
+  "calendar:show-calendar-view": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
   "emacs-text-editor:backward-char": [
     {
       "modifiers": [
@@ -282,6 +291,29 @@
         "Shift"
       ],
       "key": "."
+    }
+  ],
+  "paste-from-history:paste-from-clipboard-history": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Y"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "5"
     }
   ]
 }
